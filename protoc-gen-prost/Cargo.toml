@@ -1,6 +1,6 @@
 [package]
 name = "protoc-gen-prost"
-version = "0.4.0"
+version = "0.4.1"
 authors = ["Marcus Griep <marcus@griep.us>"]
 description = "Protocol Buffers compiler plugin powered by Prost!"
 repository = "https://github.com/neoeinstein/protoc-gen-prost"
@@ -8,7 +8,7 @@ homepage = "https://github.com/neoeinstein/protoc-gen-prost"
 documentation = "https://docs.rs/protoc-gen-prost"
 license = "Apache-2.0"
 edition = "2021"
-rust-version = "1.62"
+rust-version = "1.75"
 readme = "README.md"
 keywords = ["protobuf", "serialization", "prost"]
 categories = ["encoding"]
